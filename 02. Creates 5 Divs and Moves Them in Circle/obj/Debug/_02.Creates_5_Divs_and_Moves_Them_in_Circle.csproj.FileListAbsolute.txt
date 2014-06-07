@@ -1,0 +1,6 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Solution 'DOM Operations\02. Creates 5 Divs and Moves Them in Circle\bin\_02.Creates_5_Divs_and_Moves_Them_in_Circle.dll.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Solution 'DOM Operations\02. Creates 5 Divs and Moves Them in Circle\bin\_02.Creates_5_Divs_and_Moves_Them_in_Circle.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Solution 'DOM Operations\02. Creates 5 Divs and Moves Them in Circle\bin\_02.Creates_5_Divs_and_Moves_Them_in_Circle.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Solution 'DOM Operations\02. Creates 5 Divs and Moves Them in Circle\obj\Debug\_02.Creates_5_Divs_and_Moves_Them_in_Circle.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Solution 'DOM Operations\02. Creates 5 Divs and Moves Them in Circle\obj\Debug\_02.Creates_5_Divs_and_Moves_Them_in_Circle.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Solution 'DOM Operations\02. Creates 5 Divs and Moves Them in Circle\obj\Debug\_02.Creates_5_Divs_and_Moves_Them_in_Circle.csprojResolveAssemblyReference.cache
